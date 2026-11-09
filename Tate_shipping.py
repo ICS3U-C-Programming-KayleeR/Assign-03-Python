@@ -4,11 +4,11 @@
 # This program is for a shipping company. It asks the user
 # to enter the dimensions of the package they want to deliver.
 # If the weight and the volume of the package are under the limit,
-# it lets them select a method of shipping. 
+# it lets them select a method of shipping.
 
 
 def main():
-    # greet user
+    # greet the user
     print("Welcome to TateXpress Shipping")
 
     # get user's package dimensions
